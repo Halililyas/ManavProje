@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manav_Gelismis_Getup", "Manav_Gelismis_Getup\Manav_Gelismis_Getup.csproj", "{A288E59F-2C6D-436B-8AD5-3F773E8A3ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A288E59F-2C6D-436B-8AD5-3F773E8A3ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A288E59F-2C6D-436B-8AD5-3F773E8A3ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A288E59F-2C6D-436B-8AD5-3F773E8A3ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A288E59F-2C6D-436B-8AD5-3F773E8A3ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD784D2-A51F-4234-AAD0-77ECBB2E97E8}
+	EndGlobalSection
+EndGlobal

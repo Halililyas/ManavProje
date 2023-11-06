@@ -1,0 +1,8 @@
+C:\Users\hızır\Desktop\Manav_Gelismis_Getup\Manav_Gelismis_Getup\bin\Debug\Manav_Gelismis_Getup.exe.config
+C:\Users\hızır\Desktop\Manav_Gelismis_Getup\Manav_Gelismis_Getup\bin\Debug\Manav_Gelismis_Getup.exe
+C:\Users\hızır\Desktop\Manav_Gelismis_Getup\Manav_Gelismis_Getup\bin\Debug\Manav_Gelismis_Getup.pdb
+C:\Users\hızır\Desktop\Manav_Gelismis_Getup\Manav_Gelismis_Getup\obj\Debug\Manav_Gelismis_Getup.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Manav_Gelismis_Getup\Manav_Gelismis_Getup\obj\Debug\Manav_Gelismis_Getup.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\Manav_Gelismis_Getup\Manav_Gelismis_Getup\obj\Debug\Manav_Gelismis_Getup.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Manav_Gelismis_Getup\Manav_Gelismis_Getup\obj\Debug\Manav_Gelismis_Getup.exe
+C:\Users\hızır\Desktop\Manav_Gelismis_Getup\Manav_Gelismis_Getup\obj\Debug\Manav_Gelismis_Getup.pdb
